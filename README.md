@@ -10,7 +10,6 @@
 - :monocle_face: I'm interested in understanding how software works from the inside out (SQL, Git, Algorithms).
 - :sunglasses: My goal is ***"To become a Software Engineer, mastering both code and data."***
 - :rocket: **Check out my Portfolio:** [miportafoliogiovanni.framer.website](https://miportafoliogiovanni.framer.website)
-- :ok_hand: Fun fact: I love doing sports to clear my mind after a long coding session.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
