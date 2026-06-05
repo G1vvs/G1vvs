@@ -3,12 +3,12 @@
 **About Me**
 
 - :credit_card: My name is **Giovanni Sanhueza** <img src="https://github.com/user-attachments/assets/16871af6-45fd-4090-9201-d1d26457376c" width="400" align="right"/>
-- :school: I'm a **Computer Engineering Student**.
-- :books: My major is **Software Engineering & Database Management**.
-- :earth_americas: I'm living in **Chile**.
-- :computer: I'm not just into apps; I focus on **Software Architecture**, **Databases**, and **Backend Logic**.
-- :monocle_face: I'm interested in understanding how software works from the inside out (SQL, Git, Algorithms).
-- :sunglasses: My goal is ***"To become a Software Engineer, mastering both code and data."***
+- :mortar_board: **Computer Engineering Student** (4th Year) transitioning into a Full-Time Developer.
+- :computer: Building robust systems with **Python, FastAPI, PostgreSQL, and Supabase**.
+- :hammer_and_wrench: Focused on **Software Architecture**, secure database management (RLS), and practical **AI** integrations.
+- :iphone: Experienced in crafting management platforms and native mobile apps (Kotlin).
+- :earth_americas: Based in **Concepción, Chile**.
+- :sunglasses: My focus: ***"Architecting efficient backend logic and scalable data solutions."***
 - :rocket: **Check out my Portfolio:** [miportafoliogiovanni.framer.website](https://miportafoliogiovanni.framer.website)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
