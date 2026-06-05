@@ -5,7 +5,7 @@
 - :credit_card: My name is **Giovanni Sanhueza** <img src="https://github.com/user-attachments/assets/16871af6-45fd-4090-9201-d1d26457376c" width="400" align="right"/>
 - :mortar_board: **Computer Engineering Student** (4th Year) transitioning into a Full-Time Developer.
 - :computer: Building robust systems with **Python, FastAPI, PostgreSQL, and Supabase**.
-- :hammer_and_wrench: Focused on **Software Architecture**, secure database management (RLS), and practical **AI** integrations.
+- :hammer_and_wrench: Focused on **Software Architecture**, secure database management, and practical **AI** integrations.
 - :iphone: Experienced in crafting management platforms and native mobile apps (Kotlin).
 - :earth_americas: Based in **Concepción, Chile**.
 - :sunglasses: My focus: ***"Architecting efficient backend logic and scalable data solutions."***
