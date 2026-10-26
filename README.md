@@ -13,7 +13,6 @@ Estudiante de último semestre de Ingeniería en Informática en Concepción, Ch
 
 Desarrollo APIs REST con Python y FastAPI, despliego en AWS con Docker y diseño bases de datos en PostgreSQL y MariaDB. También integro IA generativa (OpenAI API, Whisper, LLM) en productos reales.
 
-Busco mi práctica profesional en Backend, DevOps, Data Engineering o IA desde el 1 de diciembre de 2026, en modalidad híbrida.
 
 ## Proyectos destacados
 
