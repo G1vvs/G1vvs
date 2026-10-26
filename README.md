@@ -7,6 +7,8 @@
 
 ## Sobre mí
 
+<img src="https://github.com/user-attachments/assets/16871af6-45fd-4090-9201-d1d26457376c" width="320" align="right"/>
+
 Estudiante de último semestre de Ingeniería en Informática en Concepción, Chile. He construido software para 2 empresas reales: un ERP para una manufacturera con 2 sedes y un sistema de inventario y punto de venta para un almacén.
 
 Desarrollo APIs REST con Python y FastAPI, despliego en AWS con Docker y diseño bases de datos en PostgreSQL y MariaDB. También integro IA generativa (OpenAI API, Whisper, LLM) en productos reales.
